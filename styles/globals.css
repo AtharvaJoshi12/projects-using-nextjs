@@ -10,3 +10,10 @@ body {
   margin: 0;
   padding: 0;
 }
+
+.active {
+  color: rgb(107 33 168);
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 8px;
+}
