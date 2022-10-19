@@ -1,9 +1,24 @@
 import React from "react";
+import { motion } from "framer-motion";
 
 const Project = (props) => {
   return (
     <>
-      <div class="p-4 md:w-[60%] md:h-[100%] lg:w-[30%]">
+      <motion.div
+        initial={{
+          y: 200,
+          opacity: 0,
+        }}
+        transition={{
+          duration: 0.7,
+        }}
+        whileInView={{
+          opacity: 1,
+          y: 0,
+        }}
+        viewport={{ once: true }}
+        class="p-4 md:w-[60%] md:h-[100%] lg:w-[30%]"
+      >
         <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
           <img
             class="lg:h-48 w-full object-cover object-center"
@@ -34,7 +49,7 @@ const Project = (props) => {
             </div>
           </div>
         </div>
-      </div>
+      </motion.div>
     </>
   );
 };
