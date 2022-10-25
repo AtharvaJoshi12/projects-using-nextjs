@@ -9,6 +9,14 @@ const ProjectContainer1 = () => {
           <div class="flex flex-wrap -m-4 md:justify-center">
             <Project
               tech="Next JS, Tailwind-CSS"
+              title="Airbnb Clone"
+              description="Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat."
+              image="/images/airbnb.png"
+              wlink="https://airbnbclone-lac.vercel.app/"
+              clink="https://github.com/AtharvaJoshi12/airbnbclone"
+            />
+            <Project
+              tech="Next JS, Tailwind-CSS"
               title="Hulu Clone"
               description="Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat."
               image="/images/huluclone.png"
