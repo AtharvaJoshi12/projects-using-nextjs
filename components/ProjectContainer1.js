@@ -8,6 +8,14 @@ const ProjectContainer1 = () => {
         <div class="container px-5 py-24 mx-auto">
           <div class="flex flex-wrap -m-4 md:justify-center">
             <Project
+              tech="HTML, CSS, JavaScript, NodeJS"
+              title="ChattHub - Chat App"
+              description="Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat."
+              image="/images/chatthub.png"
+              wlink="https://chatthub.herokuapp.com/"
+              clink="https://github.com/AtharvaJoshi12/Realtime-Chat-Appilcation"
+            />
+            <Project
               tech="Next JS, Tailwind-CSS"
               title="Airbnb Clone"
               description="Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat."
