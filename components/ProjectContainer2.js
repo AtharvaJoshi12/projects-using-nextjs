@@ -8,6 +8,14 @@ const ProjectContainer2 = () => {
         <div className="container px-5 py-24 mx-auto">
           <div className="flex flex-wrap -m-4 md:justify-center">
             <Project
+              tech="React JS, Local Storage"
+              title="To Do List"
+              description="Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat."
+              image="/images/todo.png"
+              wlink="https://todo-bay-three.vercel.app/"
+              clink="https://github.com/AtharvaJoshi12/todo-react"
+            />{" "}
+            <Project
               tech="React JS"
               title="Amazon Clone"
               description="Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat."
