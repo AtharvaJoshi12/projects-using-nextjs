@@ -31,7 +31,30 @@ const ProjectContainer1 = () => {
               wlink="https://hulu-clone-iota-black.vercel.app/"
               clink="https://github.com/AtharvaJoshi12/hulu-clone"
             />
-
+            <Project
+              tech="React JS"
+              title="Amazon Clone"
+              description="Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat."
+              image="/images/amazon.png"
+              wlink="https://amazon-clone-murex-seven.vercel.app/"
+              clink="https://github.com/AtharvaJoshi12/amazon-clone/"
+            />{" "}
+            <Project
+              tech="React JS"
+              title="Google Clone"
+              description="Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat."
+              image="/images/google.png"
+              wlink="https://googleclone-blush-gamma.vercel.app/"
+              clink="https://github.com/AtharvaJoshi12/googleclone/"
+            />{" "}
+            <Project
+              tech="React JS"
+              title="YouTube Clone"
+              description="Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat."
+              image="/images/youtube.png"
+              wlink="https://youtubeclone-eight.vercel.app/"
+              clink="https://github.com/AtharvaJoshi12/youtubeclone"
+            />
             <Project
               tech="HTML, CSS, JavaScript"
               title="Drumkit"
@@ -40,7 +63,6 @@ const ProjectContainer1 = () => {
               wlink="https://atharvajoshi12.github.io/drumkit/"
               clink="https://github.com/AtharvaJoshi12/drumkit"
             />
-
             <Project
               tech="HTML, CSS, JavaScript"
               title="Rock Paper Scissors Game"
@@ -49,7 +71,6 @@ const ProjectContainer1 = () => {
               wlink="https://ajrockpaperscissors.netlify.app/"
               clink="https://github.com/AtharvaJoshi12/Rock-Paper-Scissors-Game."
             />
-
             <Project
               tech="HTML, CSS, JavaScript"
               title="Scientific Calculator"
