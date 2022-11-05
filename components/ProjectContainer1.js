@@ -36,7 +36,7 @@ const ProjectContainer1 = () => {
               title="Amazon Clone"
               description="Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat."
               image="/images/amazon.png"
-              wlink="https://amazon-clone-murex-seven.vercel.app/"
+              wlink="https://amazonclone-1234.netlify.app/"
               clink="https://github.com/AtharvaJoshi12/amazon-clone/"
             />{" "}
             <Project
