@@ -41,14 +41,6 @@ const ProjectContainer1 = () => {
             />{" "}
             <Project
               tech="React JS"
-              title="Amazon Clone"
-              description="Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat."
-              image="/images/amazon.png"
-              wlink="https://amazonclone-1234.netlify.app/"
-              clink="https://github.com/AtharvaJoshi12/amazon-clone/"
-            />{" "}
-            <Project
-              tech="React JS"
               title="Google Clone"
               description="Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat."
               image="/images/google.png"
