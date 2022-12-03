@@ -7,14 +7,14 @@ const ProjectContainer4 = () => {
       <section className="text-gray-600 body-font">
         <div className="container px-5 py-24 mx-auto">
           <div className="flex flex-wrap -m-4 md:justify-center">
-            <Project
+            {/* <Project
               tech="HTML, CSS, JavaScript, NodeJS"
               title="ChattHub - Chat App"
               description="Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat."
               image="/images/chatthub.png"
               wlink="https://chatthub.herokuapp.com/"
               clink="https://github.com/AtharvaJoshi12/Realtime-Chat-Appilcation"
-            />
+            /> */}
             <Project
               tech="HTML, CSS, JavaScript"
               title="Drumkit"
