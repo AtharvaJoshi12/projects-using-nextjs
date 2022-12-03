@@ -18,7 +18,7 @@ const ProjectContainer1 = () => {
             <Project
               tech="Next JS, Tailwind-CSS"
               title="Airbnb Clone"
-              description="Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat."
+              description=""
               image="/images/airbnb.png"
               wlink="https://airbnbclone-lac.vercel.app/"
               clink="https://github.com/AtharvaJoshi12/airbnbclone"
@@ -26,7 +26,7 @@ const ProjectContainer1 = () => {
             <Project
               tech="Next JS, Tailwind-CSS"
               title="Hulu Clone"
-              description="Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat."
+              description=""
               image="/images/huluclone.png"
               wlink="https://hulu-clone-iota-black.vercel.app/"
               clink="https://github.com/AtharvaJoshi12/hulu-clone"
@@ -34,7 +34,7 @@ const ProjectContainer1 = () => {
             <Project
               tech="React JS, Local Storage"
               title="To Do List"
-              description="Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat."
+              description=""
               image="/images/todo.png"
               wlink="https://todo-bay-three.vercel.app/"
               clink="https://github.com/AtharvaJoshi12/todo-react"
@@ -42,7 +42,7 @@ const ProjectContainer1 = () => {
             <Project
               tech="React JS"
               title="Google Clone"
-              description="Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat."
+              description=""
               image="/images/google.png"
               wlink="https://googleclone-blush-gamma.vercel.app/"
               clink="https://github.com/AtharvaJoshi12/googleclone/"
@@ -50,7 +50,7 @@ const ProjectContainer1 = () => {
             <Project
               tech="React JS"
               title="YouTube Clone"
-              description="Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat."
+              description=""
               image="/images/youtube.png"
               wlink="https://youtubeclone-eight.vercel.app/"
               clink="https://github.com/AtharvaJoshi12/youtubeclone"
@@ -58,7 +58,7 @@ const ProjectContainer1 = () => {
             <Project
               tech="HTML, CSS, JavaScript"
               title="Drumkit"
-              description="Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat."
+              description=""
               image="/images/band.png"
               wlink="https://atharvajoshi12.github.io/drumkit/"
               clink="https://github.com/AtharvaJoshi12/drumkit"
@@ -66,7 +66,7 @@ const ProjectContainer1 = () => {
             <Project
               tech="HTML, CSS, JavaScript"
               title="Rock Paper Scissors Game"
-              description="Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat."
+              description=""
               image="/images/rockpaper.png"
               wlink="https://ajrockpaperscissors.netlify.app/"
               clink="https://github.com/AtharvaJoshi12/Rock-Paper-Scissors-Game."
@@ -74,7 +74,7 @@ const ProjectContainer1 = () => {
             <Project
               tech="HTML, CSS, JavaScript"
               title="Scientific Calculator"
-              description="Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat."
+              description=""
               image="/images/calci.png"
               wlink="https://atharvajoshi12.github.io/Scientific-Calculator-/"
               clink="https://github.com/AtharvaJoshi12/Scientific-Calculator-"

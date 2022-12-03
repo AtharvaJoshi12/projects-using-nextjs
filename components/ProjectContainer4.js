@@ -18,7 +18,7 @@ const ProjectContainer4 = () => {
             <Project
               tech="HTML, CSS, JavaScript"
               title="Drumkit"
-              description="Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat."
+              description=""
               image="/images/band.png"
               wlink="https://atharvajoshi12.github.io/drumkit/"
               clink="https://github.com/AtharvaJoshi12/drumkit"
@@ -27,7 +27,7 @@ const ProjectContainer4 = () => {
             <Project
               tech="HTML, CSS, JavaScript"
               title="Rock Paper Scissors Game"
-              description="Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat."
+              description=""
               image="/images/rockpaper.png"
               wlink="https://ajrockpaperscissors.netlify.app/"
               clink="https://github.com/AtharvaJoshi12/Rock-Paper-Scissors-Game."
@@ -36,7 +36,7 @@ const ProjectContainer4 = () => {
             <Project
               tech="HTML, CSS, JavaScript"
               title="Scientific Calculator"
-              description="Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat."
+              description=""
               image="/images/calci.png"
               wlink="https://atharvajoshi12.github.io/Scientific-Calculator-/"
               clink="https://github.com/AtharvaJoshi12/Scientific-Calculator-"

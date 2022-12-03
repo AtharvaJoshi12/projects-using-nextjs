@@ -10,7 +10,7 @@ const ProjectContainer3 = () => {
             <Project
               tech="Next JS, Tailwind-CSS"
               title="Hulu Clone"
-              description="Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat."
+              description=""
               image="/images/huluclone.png"
               wlink="https://hulu-clone-iota-black.vercel.app/"
               clink="https://github.com/AtharvaJoshi12/hulu-clone"
@@ -19,7 +19,7 @@ const ProjectContainer3 = () => {
             <Project
               tech="Next JS, Tailwind-CSS"
               title="Airbnb Clone"
-              description="Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat."
+              description=""
               image="/images/airbnb.png"
               wlink="https://airbnbclone-lac.vercel.app/"
               clink="https://github.com/AtharvaJoshi12/airbnbclone"

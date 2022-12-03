@@ -10,7 +10,7 @@ const ProjectContainer2 = () => {
             <Project
               tech="React JS, Local Storage"
               title="To Do List"
-              description="Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat."
+              description=""
               image="/images/todo.png"
               wlink="https://todo-bay-three.vercel.app/"
               clink="https://github.com/AtharvaJoshi12/todo-react"
@@ -18,7 +18,7 @@ const ProjectContainer2 = () => {
             <Project
               tech="React JS"
               title="Google Clone"
-              description="Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat."
+              description=""
               image="/images/google.png"
               wlink="https://googleclone-blush-gamma.vercel.app/"
               clink="https://github.com/AtharvaJoshi12/googleclone/"
@@ -26,7 +26,7 @@ const ProjectContainer2 = () => {
             <Project
               tech="React JS"
               title="YouTube Clone"
-              description="Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat."
+              description=""
               image="/images/youtube.png"
               wlink="https://youtubeclone-eight.vercel.app/"
               clink="https://github.com/AtharvaJoshi12/youtubeclone"
